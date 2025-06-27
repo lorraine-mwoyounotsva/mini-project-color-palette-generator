@@ -19,5 +19,5 @@ This is a simple, responsive color palette generator built with HTML, CSS, and J
 - Creating a polished UI with shadows, hover states, and transitions
 
 <div align="center">
-  <img src="https://github.com/lorraine-mwoyounotsva/mini-project-color-palette-generator/blob/main/color-palette-generator.png?raw=true" alt="404 Page Preview" width="400"/> 
+  <img src="https://github.com/lorraine-mwoyounotsva/mini-project-color-palette-generator/blob/main/color-palette-generator.png?raw=true" alt="Color Palette Generator Preview" width="400"/> 
 </div>
