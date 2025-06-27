@@ -17,3 +17,7 @@ This is a simple, responsive color palette generator built with HTML, CSS, and J
 - Copy to clipboard using `navigator.clipboard`
 - Basic responsive CSS grid techniques
 - Creating a polished UI with shadows, hover states, and transitions
+
+<div align="center">
+  <img src="https://github.com/lorraine-mwoyounotsva/mini-project-color-palette-generator/blob/main/color-palette-generator.png?raw=true" alt="404 Page Preview" width="400"/> 
+</div>
